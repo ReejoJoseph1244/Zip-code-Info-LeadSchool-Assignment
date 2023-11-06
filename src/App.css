@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+body {
+  background-image: url('./components/Assets/appbackground.jpg');
+  background-size: cover; 
+}
 
 .App-logo {
   height: 40vmin;
